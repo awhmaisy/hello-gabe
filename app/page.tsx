@@ -63,7 +63,7 @@ export default function Home() {
             color: '#777',
             fontStyle: 'italic'
           }}>
-            Ever wanted to sell your SOL? Now you can!
+            Ever wanted to sell your SOL? Well, now you can!
           </div>
 
           <div style={{ 
